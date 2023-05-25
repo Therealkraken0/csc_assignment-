@@ -4,7 +4,7 @@
 <P> COURSE: COMPUTER SCIENCE </P>
 <P> COURSE CODE: CSC 102 </P>
 <P> COURSE TITLE: INTRODUCTON TO PROBLEM SOLVING </P>
-</h2>
+</h2>https://github.com/Therealkraken0/csc_assignment-
 <p>1. An input function should be used to accept password from user</p>
 <p>2. The input function should be assigned to the variable password </p>
 <p>3.Create a conditional statement compairing the variable that stores the password and the variable that confimed the password </p>
